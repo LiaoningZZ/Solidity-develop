@@ -57,7 +57,7 @@ contract SimpleStorage {
 
 当然，任何人都可以再次调用 set ，传入不同的值，覆盖你的数字，但是这个数字仍会被存储在区块链的历史记录中。
 
-接着我们点击最左列第三个图标编译，这里能帮我们检查出有没有语句上的错误，如果没有出现提示，则说明可以运行。
+接着我们点击最左列第三个图标编译，然后点击Compile SimpleStorage.sol,这里能帮我们检查出有没有语句上的错误，如果没有出现提示，则说明可以运行。
 
 ![3](https://user-images.githubusercontent.com/119775358/205493124-5f5b97e7-3804-4fcb-966d-68b436cfe199.png)
 
@@ -65,7 +65,8 @@ contract SimpleStorage {
 
 ![4](https://user-images.githubusercontent.com/119775358/205493507-6d5378ca-dc52-490c-98fc-eded8e6174c6.png)
 
-
+## 总结
+以上就是从开发环境入手，在以太坊上部署第一个合约的步骤。当然小白在这里很难理解里面的一些术语和用法，没有关系，在后面我们从最基础学习语言的知识。
 
 
 
